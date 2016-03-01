@@ -1,2 +1,2 @@
-# Computational-Physics
-- Ha ha 
+# Computational Physics
+- This is the first homework 

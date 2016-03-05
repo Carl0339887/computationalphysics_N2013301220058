@@ -12,10 +12,10 @@ Computational physics
 
 Though keep training may improve one's skill in programming, I still want to give this uncanny assessment rule, which high lights the **length** in stead of the **quality** of your homework, an inequality: $ln( x-1)>0.$ I think most of the rule-taker share the same opinion of mine.
 
-### *Demo* for markdown
+### Code demo
 
 
->```python
+```python
 a = 2 ** 100000
 digit = {0: 0, 1: 0, 2: 0, 3: 0, 4: 0, 5: 0, 6: 0, 7: 0, 8: 0, 9: 0}
 
@@ -27,16 +27,12 @@ def count_digit(num):
         digit[d] += 1
     return digit
 
-
 count_digit(a)
-
-
 summation = 0
 for i in range(0, 9):
     summation += digit[i]
 
 print digit
 print summation
->    print 'hello world'
->```
+```
 

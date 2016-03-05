@@ -11,3 +11,16 @@ Computational physics
 ### My **complaint** about the assessment rule
 
 Though keep training may improve one's skill in programming, I still want to give this uncanny assessment rule, which high lights the **length** in stead of the **quality** of your homework, an inequality: $ln( x-1)>0.$ I think most of the rule-taker share the same opinion of mine.
+
+
+
+```python
+@requires_authorization
+class SomeClass:
+    pass
+
+if __name__ == '__main__':
+    # A comment
+    print 'hello world'
+```
+

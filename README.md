@@ -16,12 +16,27 @@ Though keep training may improve one's skill in programming, I still want to giv
 
 
 >```python
->@requires_authorization
->class SomeClass:
->    pass
->
->if __name__ == '__main__':
->    # A comment
+a = 2 ** 100000
+digit = {0: 0, 1: 0, 2: 0, 3: 0, 4: 0, 5: 0, 6: 0, 7: 0, 8: 0, 9: 0}
+
+
+def count_digit(num):
+    while num > 0:
+        d = num % 10
+        num //= 10
+        digit[d] += 1
+    return digit
+
+
+count_digit(a)
+
+
+summation = 0
+for i in range(0, 9):
+    summation += digit[i]
+
+print digit
+print summation
 >    print 'hello world'
 >```
 

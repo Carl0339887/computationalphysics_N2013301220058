@@ -6,7 +6,7 @@ Computational physics
  - The  name of the famous package for first-principle calculations is *Vienna Ab-initio Simulation Package* (VASP), but the teacher took it as **WASP**. I noticed it and secretly  corrected it in the short break between lessons by wiping out the front "V" of the strike of "W" he put on the blackboard.  Of course,  he didn't find it.
  
  - The teacher mistook the name of *Phys.Rev.Lett* as "Physics Review Letter", but actually it should be **Physical Review Letters**. If it was not his slip of the tongue, I don't think the teacher have read [*LIGO*'s paper on Gravitational Waves](http://journals.aps.org/prl/abstract/10.1103/PhysRevLett.116.061102).
- - The standard pronunciation of LaTeX is ['leitek] but not ['leiteks].
+ - The standard pronunciation of LaTeX is ['leitek] but not ['leiteks] or ['la:tek] or [la'tek].
 
 ### My **complaint** about the assessment rule
 

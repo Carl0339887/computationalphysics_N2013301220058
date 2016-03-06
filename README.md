@@ -35,4 +35,23 @@ for i in range(0, 9):
 print digit
 print summation
 ```
+```python
+def apd(alist):
+    alist.append('suffix')
+    return
 
+
+def plus(alist):
+    alist = alist + ['suffix']
+    return
+
+
+list = [1,2,3]
+plus(list)
+print 'result of "+":', list
+apd(list)
+print 'result of "list.append()":', list
+
+> result of "+": [1, 2, 3]
+> result of "list.append()": [1, 2, 3, 'suffix']
+```

@@ -41,7 +41,7 @@ print summation
 >```
 What a **large** number! Hopefully, my Mac can cope with it in several seconds, ahahhhhh~~
 
-I wrote the following program to find out the nuance between pass-by-**refernce** and pass-by-**value**
+I wrote the following program to explore the nuance between pass-by-**refernce** and pass-by-**value**
 ```python
 def apd(alist):
     alist.append('suffix')

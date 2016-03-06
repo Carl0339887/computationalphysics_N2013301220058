@@ -17,7 +17,10 @@ Though keep training may improve one's skill in programming, I still want to giv
 I wrote a program to count how many digits and what they are in number $2^{100000}$
 ```python
 a = 2 ** 100000
-digit = {0: 0, 1: 0, 2: 0, 3: 0, 4: 0, 5: 0, 6: 0, 7: 0, 8: 0, 9: 0}
+digit = {}
+i = 0
+for i in range(0,10):
+    digit[i] = 0
 
 
 def count_digit(num):
@@ -35,6 +38,7 @@ for i in range(0, 9):
 print digit
 print summation
 ```
+
 >```python
 >{0: 2991, 1: 2969, 2: 3068, 3: 3075, 4: 3040, 5: 3015, 6: 2952, 7: 3052, 8: 2932, 9: 3009}
 >27094

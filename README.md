@@ -19,7 +19,7 @@ I wrote a program to count how many digits and what they are in number $2^{10000
 a = 2 ** 100000
 digit = {}
 i = 0
-for i in range(0,10):
+for i in range(0, 10):
     digit[i] = 0
 
 

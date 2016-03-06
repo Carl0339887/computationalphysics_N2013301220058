@@ -39,7 +39,7 @@ print summation
 >{0: 2991, 1: 2969, 2: 3068, 3: 3075, 4: 3040, 5: 3015, 6: 2952, 7: 3052, 8: 2932, 9: 3009}
 >27094
 >```
-What a **large** number! Hopefully, my Mac can cope with it in several seconds, ahahhhhh~~
+What a **large** number! There are totally 27094 digits with 2991 0's, 2969 1's and so on. Hopefully, my Mac can cope with it in several seconds, ahahhhhh~~
 
 I wrote the following program to explore the nuance between pass-by-**refernce** and pass-by-**value**
 ```python

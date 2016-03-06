@@ -41,7 +41,7 @@ print summation
 >```
 What a **large** number! There are 2991 zeros, 2969 ones and so on, with a total of 27094 digits! Hopefully, my Mac can cope with it in several seconds, ahahhhhh~~
 
-I wrote the following program to explore the nuance between pass-by-**refernce** and pass-by-**value**
+I wrote the following program to explore the nuance between **pass-by-reference** and **pass-by-value**
 ```python
 def apd(alist):
     alist.append('suffix')

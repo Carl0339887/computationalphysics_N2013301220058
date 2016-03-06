@@ -52,6 +52,8 @@ print 'result of "+":', list
 apd(list)
 print 'result of "list.append()":', list
 
+```
+>```python
 > result of "+": [1, 2, 3]
 > result of "list.append()": [1, 2, 3, 'suffix']
-```
+>```

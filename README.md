@@ -6,7 +6,7 @@ Computational physics
  - The  name of the famous package for first-principle calculations is *Vienna Ab-initio Simulation Package* (VASP), but the teacher took it as *WASP*. (I corrected it in the short break between classes by wiping out the front "V" of the stroke of "W" on the black board.)
  
  - The teacher mistook the name of *Phys.Rev.Lett* as "Physics Review Letter", but actually it should be **Physical Review Letters**. If it was not his slip of the tongue, I don't think the teacher have read [*LIGO*'s paper on *Gravitational Waves*](http://journals.aps.org/prl/abstract/10.1103/PhysRevLett.116.061102).
- - The standard pronunciation of LaTeX is ['leitek] but not ['leiteks] or ['la:tek] or [la'tek]. *TeX* should be read the same as *Tech*, moreover, the pronunciation of 'ch' is similar to the part of 'Ach' in German and 'Loch' in Scotch or Greek $\chi$. If your terminal is as smart as mine, you can put command *say LaTeX* then <*enter*>, you'll get it.(By the way, it can even tell you *Mac OS X* shoud be read as "mac os **ten**")
+ - The standard pronunciation of LaTeX is ['leitek] but not ['leiteks] or ['la:tek] or [la'tek]. *TeX* should be read the same as *Tech*, moreover, the pronunciation of 'ch' is similar to the part of 'Ach' in German and 'Loch' in Scotch or Greek $\chi$. If your terminal is as smart as mine, you can put command '*say LaTeX*' then <*enter*> and you'll get it.(By the way, it can even tell you *Mac OS X* shoud be read as "mac os **ten**")
 
 ### My **complaint** about the assessment rule
 

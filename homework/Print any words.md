@@ -206,7 +206,7 @@ show()
 
 ```
 
-###Reference
+###3.Reference
 
 - Allen Downey et al.,2002, *How to Think Like a Computer Scientist — Learning with Python*, Green Tea Press, ISBN 0-9716775-0-6
 

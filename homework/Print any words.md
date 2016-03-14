@@ -7,9 +7,9 @@
 - Showing patterns in positive or inverted or **even random** ones are supported. Choose 'all' to try all these three types.
 
 > A demo:
-> Input: I * Physics
-> Choose 'all'
-> Then we get ![Demo](https://raw.githubusercontent.com/Carl0339887/computationalphysics_N2013301220058/master/homework/result.png)
+> - Input: I * Physics
+> - Choose 'all'
+> > Then we get ![Demo](https://raw.githubusercontent.com/Carl0339887/computationalphysics_N2013301220058/master/homework/result.png)
 
 ###2.Code
 

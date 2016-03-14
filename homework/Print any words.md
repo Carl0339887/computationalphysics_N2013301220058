@@ -4,13 +4,13 @@
 
 - Only capital letters and whitespace will be printed. Lower-case letters will be converted to capital ones. **Asterisk** — **'*'** will be printed as a heart '♥'. Any other character will be printed as whitespace.
 - The using of dictionary as well as a quite **concise** loop is a feature of this program.
-- Showing patterns in positive or inverted or **even random** ones are supported
+- Showing patterns in positive or inverted or **even random** ones are supported. Choose 'all' to try all these three types.
 
 > A demo:
 >
 > Input: I * Physics
->
-> We get ![Demo](https://raw.githubusercontent.com/Carl0339887/computationalphysics_N2013301220058/master/homework/result.png)
+> choose 'all'
+> Then we get ![Demo](https://raw.githubusercontent.com/Carl0339887/computationalphysics_N2013301220058/master/homework/result.png)
 
 ###2.Code
 

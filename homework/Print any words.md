@@ -8,8 +8,8 @@
 
 > A demo:
 > - Input: I * Physics
-> - Choose 'all'
-> > Then we get ![Demo](https://raw.githubusercontent.com/Carl0339887/computationalphysics_N2013301220058/master/homework/result.png)
+> - Choose 'all'.
+> Then we get ![Demo](https://raw.githubusercontent.com/Carl0339887/computationalphysics_N2013301220058/master/homework/result.png)
 
 ###2.Code
 

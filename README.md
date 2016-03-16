@@ -2,7 +2,7 @@ Computational physics
 -----
 
 ## Homework
-- [Print your words](https://github.com/Carl0339887/computationalphysics_N2013301220058/blob/master/homework/Print%20any%20words.md)
+- [Demo(Print words)](https://github.com/Carl0339887/computationalphysics_N2013301220058/blob/master/homework/Print%20any%20words.md)
 
 ### Code demo
 

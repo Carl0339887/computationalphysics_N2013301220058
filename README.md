@@ -3,7 +3,8 @@ Computational physics
 
 ## Homework
 - [Demo(Print words)](https://github.com/Carl0339887/computationalphysics_N2013301220058/blob/master/homework/Print%20any%20words.md)
-
+- [Ch1Ex1.6 Report](https://github.com/Carl0339887/computationalphysics_N2013301220058/blob/master/homework/EX1.6.pdf)
+- [Ch1Ex1.6 Code](https://github.com/Carl0339887/computationalphysics_N2013301220058/blob/master/homework/Code_ex_1.6.md)
 ### Code demo
 
 I wrote a program to count how many digits and what they are in number $2^{100000}$

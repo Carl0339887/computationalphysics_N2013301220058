@@ -5,6 +5,7 @@ Computational physics
 - [Demo(Print words)](https://github.com/Carl0339887/computationalphysics_N2013301220058/blob/master/homework/Print%20any%20words.md)
 - [Ch1Ex1.6 Report](https://github.com/Carl0339887/computationalphysics_N2013301220058/blob/master/homework/EX1.6.pdf)
 - [Ch1Ex1.6 Code](https://github.com/Carl0339887/computationalphysics_N2013301220058/blob/master/homework/Code_ex_1.6.md)
+- ![Test](http://mmbiz.qpic.cn/mmbiz/r6mIVofektTTbe4uibsJiaF1QAYK6CoeL3iaa3BuZfDKdJJfQ2KLdVdShWqXhjrJDMhHcia2ZnhG72iapUCDNwbRaaQ/0?wx_fmt=gif&wxfrom=5&wx_lazy=1)
 
 
 ### Code demo

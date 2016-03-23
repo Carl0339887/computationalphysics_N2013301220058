@@ -1,10 +1,14 @@
-Computational physics
+Computational physics (Qiang Yihua)
 -----
 
-## Homework
+### Homework
 - [Demo(Print words)](https://github.com/Carl0339887/computationalphysics_N2013301220058/blob/master/homework/Print%20any%20words.md)
+
+---------
+
 - [Ch1Ex1.6 Report](https://github.com/Carl0339887/computationalphysics_N2013301220058/blob/master/homework/EX1.6.pdf)
 - [Ch1Ex1.6 Code](https://github.com/Carl0339887/computationalphysics_N2013301220058/blob/master/homework/Code_ex_1.6.md)
+-----------
 
 Use **Matplotlib** to draw
 ![Test](https://github.com/Carl0339887/computationalphysics_N2013301220058/blob/master/homework/2.gif)

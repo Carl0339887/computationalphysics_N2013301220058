@@ -9,7 +9,7 @@ Computational physics
 Use **Matplotlib** to draw
 ![Test](https://github.com/Carl0339887/computationalphysics_N2013301220058/blob/master/homework/2.gif)
 
-
+<!--
 ### Code demo
 
 I wrote a program to count how many digits and what they are in number $2^{100000}$
@@ -79,3 +79,4 @@ print 'result of "list.append()":', list
 
 Though keep training may improve one's skill in programming, I still want to give this uncanny assessment rule, which high lights the **length** in stead of the **quality** of your homework, an inequality: $ln(x-1)>0.$ If you do not understand the inequlity, that means I am right. If you do, then we share the same point of view~
 
+<!-- 注释 -->

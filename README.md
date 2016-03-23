@@ -6,7 +6,7 @@ Computational physics (Qiang Yihua)
 - [Ch1Ex1.6 Report](https://github.com/Carl0339887/computationalphysics_N2013301220058/blob/master/homework/EX1.6.pdf)
 - [Ch1Ex1.6 Code](https://github.com/Carl0339887/computationalphysics_N2013301220058/blob/master/homework/Code_ex_1.6.md)
 
---------------
+
 ![Test](https://github.com/Carl0339887/computationalphysics_N2013301220058/blob/master/homework/2.gif)
 
 <!--
@@ -78,5 +78,4 @@ print 'result of "list.append()":', list
 ### My **complaint** about the assessment rule
 
 Though keep training may improve one's skill in programming, I still want to give this uncanny assessment rule, which high lights the **length** in stead of the **quality** of your homework, an inequality: $ln(x-1)>0.$ If you do not understand the inequlity, that means I am right. If you do, then we share the same point of view~
-
-<!-- 注释 -->
+-->

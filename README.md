@@ -7,6 +7,7 @@ Computational physics (Qiang Yihua)
 - [Ch1Ex1.6 Code](https://github.com/Carl0339887/computationalphysics_N2013301220058/blob/master/homework/Code_ex_1.6.md)
 
 
+DO NOT click **Raw**
 ![Test](https://github.com/Carl0339887/computationalphysics_N2013301220058/blob/master/homework/2.gif)
 
 <!--

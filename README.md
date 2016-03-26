@@ -7,11 +7,22 @@ Computational physics (Qiang Yihua)
 - [Ch1Ex1.6 Code](https://github.com/Carl0339887/computationalphysics_N2013301220058/blob/master/homework/Code_ex_1.6.md)
 
 
-DO NOT click **Raw**
 ![Test](https://github.com/Carl0339887/computationalphysics_N2013301220058/blob/master/homework/2.gif)
+DO NOT click **Raw**. ahahhhhhhh
+
+
+### Code demo
+```python
+fib = [1,1]
+def fibonacci(n):
+  for i in range(n):
+    fib.append(fib[-1]+fib[-2])
+
+fibonacci(8)
+print fib
+```
 
 <!--
-### Code demo
 
 I wrote a program to count how many digits and what they are in number $2^{100000}$
 ```python
@@ -69,7 +80,7 @@ print 'result of "list.append()":', list
 >```
 
 
-###Two minor **mistakes** the teacher made:
+### Two minor **mistakes** the teacher made:
 
  - The  name of the famous package for first-principle calculations is *Vienna Ab-initio Simulation Package* (VASP), but the teacher took it as *WASP*. (I corrected it in the short break between classes by wiping out the front "V" of the stroke of "W" on the black board.)
  

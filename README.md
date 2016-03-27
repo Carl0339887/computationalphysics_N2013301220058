@@ -8,7 +8,7 @@ Computational physics (Qiang Yihua)
 
 
 ![Test](https://github.com/Carl0339887/computationalphysics_N2013301220058/blob/master/homework/2.gif)
-DO NOT click **Raw**. ahahhhhhhh
+ahahhhhhhh
 
 
 ### Code demo
@@ -19,7 +19,7 @@ def fibonacci(n):
     fib.append(fib[-1]+fib[-2])
 
 fibonacci(8)
-print fib
+print 'DO NOT click "Raw". '
 ```
 
 <!--

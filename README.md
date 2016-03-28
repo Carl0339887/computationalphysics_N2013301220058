@@ -19,7 +19,7 @@ def fibonacci(n):
     fib.append(fib[-1]+fib[-2])
 
 fibonacci(8)
-print 'DO NOT click "Raw". '
+print 'DO NOT click "Raw" of README.md'
 ```
 
 <!--

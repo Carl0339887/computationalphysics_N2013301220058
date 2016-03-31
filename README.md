@@ -6,10 +6,11 @@ Computational physics (Qiang Yihua)
 - [Ch1Ex1.6 Report](https://github.com/Carl0339887/computationalphysics_N2013301220058/blob/master/homework/EX1.6.pdf)
 - [Ch1Ex1.6 Code](https://github.com/Carl0339887/computationalphysics_N2013301220058/blob/master/homework/Code_ex_1.6.md)
 
-
+![](http://global.bing.com/images/search?q=cannon+artillery&view=detailv2&&id=CB71605C5D9C0B4AC79D9E2E4F327DA3BBA5BF31&selectedIndex=0&ccid=19j59auk&simid=608001172006897698&thid=OIP.Md7d8f9f5aba4be7b062731b3cf02eee0o0)
+<!-- 
 ![Test](https://github.com/Carl0339887/computationalphysics_N2013301220058/blob/master/homework/2.gif)
 ahahhhhhhh
-
+-->
 
 ### Code demo
 ```python

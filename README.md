@@ -6,6 +6,7 @@ Computational physics (Qiang Yihua)
 - [Ch1Ex1.6 Report](https://github.com/Carl0339887/computationalphysics_N2013301220058/blob/master/homework/EX1.6.pdf)
 - [Ch1Ex1.6 Code](https://github.com/Carl0339887/computationalphysics_N2013301220058/blob/master/homework/Code_ex_1.6.md)
 
+[A cannon shooting game](https://phet.colorado.edu/sims/projectile-motion/projectile-motion_en.html)
 ![](http://upload.wikimedia.org/wikipedia/commons/f/f4/155fire.jpg)
 <!-- 
 ![Test](https://github.com/Carl0339887/computationalphysics_N2013301220058/blob/master/homework/2.gif)

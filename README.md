@@ -5,6 +5,7 @@ Computational physics (Qiang Yihua)
 - [Demo(Print words)](https://github.com/Carl0339887/computationalphysics_N2013301220058/blob/master/homework/Print%20any%20words.md)
 - [Ch1Ex1.6 Report](https://github.com/Carl0339887/computationalphysics_N2013301220058/blob/master/homework/EX1.6.pdf)
 - [Ch1Ex1.6 Code](https://github.com/Carl0339887/computationalphysics_N2013301220058/blob/master/homework/Code_ex_1.6.md)
+- [Ch2 report1](https://github.com/Carl0339887/computationalphysics_N2013301220058/blob/master/homework/Ch2_report.pdf)
 - [Ch2 Cannon Code](https://github.com/Carl0339887/computationalphysics_N2013301220058/blob/master/homework/CH2code1.md)
  
 

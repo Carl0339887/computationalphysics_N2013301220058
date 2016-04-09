@@ -11,6 +11,8 @@ Computational physics (Qiang Yihua)
 
 [Let's fire a *Piano*!](https://phet.colorado.edu/sims/projectile-motion/projectile-motion_en.html)
 ![](http://upload.wikimedia.org/wikipedia/commons/f/f4/155fire.jpg)
+
+I'm preparing for a gre sub test so the homework will be done next week.
 <!-- 
 ![Test](https://github.com/Carl0339887/computationalphysics_N2013301220058/blob/master/homework/2.gif)
 ahahhhhhhh

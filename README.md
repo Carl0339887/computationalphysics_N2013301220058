@@ -9,10 +9,10 @@ Computational physics (Qiang Yihua)
 - [Ch2 Cannon Code](https://github.com/Carl0339887/computationalphysics_N2013301220058/blob/master/homework/CH2code1.md)
  
 
-[Let's fire a *Piano*!](https://phet.colorado.edu/sims/projectile-motion/projectile-motion_en.html)
-![](http://upload.wikimedia.org/wikipedia/commons/f/f4/155fire.jpg)
 
-I'm preparing for a gre sub test so the homework will be done next week.
+![](https://upload.wikimedia.org/wikipedia/commons/f/fa/PenduloTmg.gif)
+
+
 <!-- 
 ![Test](https://github.com/Carl0339887/computationalphysics_N2013301220058/blob/master/homework/2.gif)
 ahahhhhhhh

@@ -7,6 +7,8 @@ Computational physics (Qiang Yihua)
 - [Ch1Ex1.6 Code](https://github.com/Carl0339887/computationalphysics_N2013301220058/blob/master/homework/Code_ex_1.6.md)
 - [Ch2 report1](https://github.com/Carl0339887/computationalphysics_N2013301220058/blob/master/homework/Ch2_report.pdf)
 - [Ch2 Cannon Code](https://github.com/Carl0339887/computationalphysics_N2013301220058/blob/master/homework/CH2code1.md)
+- [Ch3 Report1](https://github.com/Carl0339887/computationalphysics_N2013301220058/blob/master/homework/Chap3_report.pdf)
+- [Ch3 Code1](https://github.com/Carl0339887/computationalphysics_N2013301220058/blob/master/homework/chap3_code.md)
  
 
 

@@ -9,10 +9,11 @@ Computational physics (Qiang Yihua)
 - [Ch2 Cannon Code](https://github.com/Carl0339887/computationalphysics_N2013301220058/blob/master/homework/CH2code1.md)
 - [Ch3 Report1](https://github.com/Carl0339887/computationalphysics_N2013301220058/blob/master/homework/Chap3_report.pdf)
 - [Ch3 Code1](https://github.com/Carl0339887/computationalphysics_N2013301220058/blob/master/homework/chap3_code.md)
+- [Ch3 Code2](https://github.com/Carl0339887/computationalphysics_N2013301220058/blob/master/homework/Chap3Ex12.md)
  
 
 
-![](https://upload.wikimedia.org/wikipedia/commons/f/fa/PenduloTmg.gif)
+
 
 
 <!-- 

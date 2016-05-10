@@ -17,7 +17,7 @@ Computational physics (Qiang Yihua)
  
 
 <!--![](http://matplotlib.org/_images/lorenz_attractor.png)-->
-![](https://upload.wikimedia.org/wikipedia/commons/6/6c/Pluto-Charon_System.gif)
+![](https://upload.wikimedia.org/wikipedia/commons/0/0e/Orbit5.gif)
 
 
 

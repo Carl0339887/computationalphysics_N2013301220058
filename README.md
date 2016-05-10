@@ -13,6 +13,7 @@ Computational physics (Qiang Yihua)
 - [Ch3 Code2](https://github.com/Carl0339887/computationalphysics_N2013301220058/blob/master/homework/Chap3Ex12.md)
 - [Ch3 Code3](https://github.com/Carl0339887/computationalphysics_N2013301220058/blob/master/homework/Code_Ex3.26.md)
 - [Ch3 Report3](https://github.com/Carl0339887/computationalphysics_N2013301220058/blob/master/homework/Chap_3c.pdf)
+- [Ch4 Report1](https://github.com/Carl0339887/computationalphysics_N2013301220058/blob/master/homework/Chap4_ex4.7.pdf)
 - [Ch4 Code1](https://github.com/Carl0339887/computationalphysics_N2013301220058/blob/master/homework/Chap4Code1.md)
  
 

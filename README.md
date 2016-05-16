@@ -19,7 +19,7 @@ Computational physics (Qiang Yihua)
  
 
 <!--![](http://matplotlib.org/_images/lorenz_attractor.png)-->
-![](https://upload.wikimedia.org/wikipedia/commons/0/0e/Orbit5.gif)
+![te](https://upload.wikimedia.org/wikipedia/commons/e/ef/Hyperion_false_color.jpg)
 
 
 

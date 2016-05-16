@@ -3,8 +3,8 @@ Computational physics (Qiang Yihua)
 
 ### Homework
 - [Demo(Print words)](https://github.com/Carl0339887/computationalphysics_N2013301220058/blob/master/homework/Print%20any%20words.md)
-- [Ch1Ex1.6 Report](https://github.com/Carl0339887/computationalphysics_N2013301220058/blob/master/homework/EX1.6.pdf)
-- [Ch1Ex1.6 Code](https://github.com/Carl0339887/computationalphysics_N2013301220058/blob/master/homework/Code_ex_1.6.md)
+- [Ch1 Ex1.6 Report](https://github.com/Carl0339887/computationalphysics_N2013301220058/blob/master/homework/EX1.6.pdf)
+- [Ch1 Ex1.6 Code](https://github.com/Carl0339887/computationalphysics_N2013301220058/blob/master/homework/Code_ex_1.6.md)
 - [Ch2 report1](https://github.com/Carl0339887/computationalphysics_N2013301220058/blob/master/homework/Ch2_report.pdf)
 - [Ch2 Cannon Code](https://github.com/Carl0339887/computationalphysics_N2013301220058/blob/master/homework/CH2code1.md)
 - [Ch3 Report1](https://github.com/Carl0339887/computationalphysics_N2013301220058/blob/master/homework/Chap3_report.pdf)
@@ -15,6 +15,7 @@ Computational physics (Qiang Yihua)
 - [Ch3 Report3](https://github.com/Carl0339887/computationalphysics_N2013301220058/blob/master/homework/Chap_3c.pdf)
 - [Ch4 Report1](https://github.com/Carl0339887/computationalphysics_N2013301220058/blob/master/homework/Chap4_ex4.7.pdf)
 - [Ch4 Code1](https://github.com/Carl0339887/computationalphysics_N2013301220058/blob/master/homework/Chap4Code1.md)
+- [Ch4 Code2](https://github.com/Carl0339887/computationalphysics_N2013301220058/blob/master/homework/Ch_4code2.md)
  
 
 <!--![](http://matplotlib.org/_images/lorenz_attractor.png)-->

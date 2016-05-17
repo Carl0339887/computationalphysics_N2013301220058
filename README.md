@@ -15,6 +15,7 @@ Computational physics (Qiang Yihua)
 - [Ch3 Report3](https://github.com/Carl0339887/computationalphysics_N2013301220058/blob/master/homework/Chap_3c.pdf)
 - [Ch4 Report1](https://github.com/Carl0339887/computationalphysics_N2013301220058/blob/master/homework/Chap4_ex4.7.pdf)
 - [Ch4 Code1](https://github.com/Carl0339887/computationalphysics_N2013301220058/blob/master/homework/Chap4Code1.md)
+- [Ch4 Report2](https://github.com/Carl0339887/computationalphysics_N2013301220058/blob/master/homework/Chap4b.pdf)
 - [Ch4 Code2](https://github.com/Carl0339887/computationalphysics_N2013301220058/blob/master/homework/Ch_4code2.md)
  
 

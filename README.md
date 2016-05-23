@@ -20,7 +20,7 @@ Computational physics (Qiang Yihua)
  
 
 <!--![](http://matplotlib.org/_images/lorenz_attractor.png)-->
-![te](https://upload.wikimedia.org/wikipedia/commons/e/ef/Hyperion_false_color.jpg)
+![te](https://github.com/Carl0339887/computationalphysics_N2013301220058/blob/master/homework/figure_1.png)
 
 
 

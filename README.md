@@ -22,6 +22,7 @@ Computational physics (Qiang Yihua)
 
 <!--![](http://matplotlib.org/_images/lorenz_attractor.png)-->
 ![te](https://github.com/Carl0339887/computationalphysics_N2013301220058/blob/master/homework/figure_1.png)
+![](https://github.com/Carl0339887/computationalphysics_N2013301220058/blob/master/homework/figure_2.png)
 
 
 

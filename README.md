@@ -19,6 +19,7 @@ Computational physics (Qiang Yihua)
 - [Ch4 Code2](https://github.com/Carl0339887/computationalphysics_N2013301220058/blob/master/homework/Ch_4code2.md)
 - [Ch5 Report1](https://github.com/Carl0339887/computationalphysics_N2013301220058/blob/master/homework/Ex5.3.pdf)
 - [Ch5 Code1](https://github.com/Carl0339887/computationalphysics_N2013301220058/blob/master/homework/Chap5_code.md)
+- [Ch6 Code1](https://github.com/Carl0339887/computationalphysics_N2013301220058/blob/master/homework/Chap6code.md)
  
 
 <!--![](http://matplotlib.org/_images/lorenz_attractor.png)-->

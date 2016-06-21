@@ -21,6 +21,9 @@ Computational physics (Qiang Yihua)
 - [Ch5 Code1](https://github.com/Carl0339887/computationalphysics_N2013301220058/blob/master/homework/Chap5_code.md)
 - [Ch6 Report1](https://github.com/Carl0339887/computationalphysics_N2013301220058/blob/master/homework/Chap6_report.pdf)
 - [Ch6 Code1](https://github.com/Carl0339887/computationalphysics_N2013301220058/blob/master/homework/Chap6code.md)
+- [Final Report](https://github.com/Carl0339887/computationalphysics_N2013301220058/blob/master/homework/Ising%20model.pdf)
+- [Final Code1](https://github.com/Carl0339887/computationalphysics_N2013301220058/blob/master/homework/ising_model.f90)
+- [Final Code2](https://github.com/Carl0339887/computationalphysics_N2013301220058/blob/master/homework/integral.f90)
  
 
 <!--![](http://matplotlib.org/_images/lorenz_attractor.png)-->

@@ -35,7 +35,7 @@ Computational physics (Qiang Yihua)
 <!-- 
 ![Test](https://github.com/Carl0339887/computationalphysics_N2013301220058/blob/master/homework/2.gif)
 ahahhhhhhh
--->
+
 
 ### Code demo
 ```python
@@ -47,6 +47,7 @@ def fibonacci(n):
 fibonacci(8)
 print 'DO NOT click "Raw" of README.md'
 ```
+-->
 
 <!--
 

@@ -30,7 +30,6 @@ Computational physics (Qiang Yihua)
 ![te](https://wikimedia.org/api/rest_v1/media/math/render/svg/e980ea997317a8166cdf80b3e27bce8eca5a57d7)
 
 ![eclips](http://mmbiz.qpic.cn/mmbiz_jpg/LHibUTtMHPRN3Y5zaobKI9mBVlJqWwlGcrujxEM9OibLaBg9cNS9mWVAtpEG7PKgDFqcQgd6j0wfyhojT0Q8vf1A/?wxfrom=5&wx_lazy=1)
-![test](http://www.youtube.com/embed/g5xWqjFglsk?rel=0&autoplay=1&wmode=transparent)
 
 <!-- 
 ![Test](https://github.com/Carl0339887/computationalphysics_N2013301220058/blob/master/homework/2.gif)
